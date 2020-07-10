@@ -68,7 +68,7 @@ ul {
 
 /*--/navbar--*/
 header {
-    position: absolute;
+    position: fixed;
     width: 100%;
     z-index: 9;
 }
@@ -81,7 +81,7 @@ ul#menu {
     /* height: 3em; */
     margin: 0;
     /* background: rgba(21, 30, 37, 0.32); */
-    color: #fff;
+    color: rgb(159, 152, 192);
     z-index: 99;
     right: 14%;
     font-size: 29px;
